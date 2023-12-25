@@ -1,0 +1,4 @@
+"date_time", "surface", "time_on_skin", "time_off_skin", "user", "resolution_1g"
+
+20230201_1613_ca_skin,on_table_ON_jogging,295,2517,benson,256
+20230201_1613,on_table_ON_jogging,295,2517,benson,256
